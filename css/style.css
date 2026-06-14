@@ -1,6 +1,7 @@
 body {
+    max-width: 650px;
     background-color: #fff5d7;
-    margin: 50px;
+    margin: 50px auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
