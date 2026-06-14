@@ -1,0 +1,30 @@
+body {
+    background-color: #fff5d7;
+    margin: 50px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px auto;
+}
+
+h1,
+h2{
+    margin: 20px 10px 0;
+    text-align: center;
+}
+
+p {
+    margin: 0 20px;
+}
+
+ol, ul {
+    margin-right: 20px;
+}
+
+a {
+    padding: 10px;
+    color: #ff5e6c;
+    font-size: 20px;
+}
